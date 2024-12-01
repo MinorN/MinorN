@@ -23,8 +23,13 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinorN&theme=radical)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinorN&layout=compact)
+### Commonly used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinorN&layout=compact)
+
+### GitHub stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinorN&theme=radical)
 
 ### LeetCode
 
