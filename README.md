@@ -8,4 +8,4 @@
 
 ## LeetCode
 
-![](https://stats.justsong.cn/api/leetcode?username=ling-v4d&cn=true)
+![](https://stats.justsong.cn/api/leetcode?username=零&cn=true)
